@@ -98,7 +98,7 @@
 ###
 
 <div align="center">
-  <img height="80" width="80" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
