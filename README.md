@@ -91,11 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/divyanshdj/divyanshdj/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
