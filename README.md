@@ -1,3 +1,5 @@
+###
+
 <div align="center">
   <img height="250" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 </div>
@@ -28,7 +30,15 @@
 
 ###
 
-<h3 align="left">👨🏻‍🎓 I'm 2nd Year CSE Student<br><br>💻 I am person who loves travelling, online earning, gaming, swimming and programming!</h3>
+<h3 align="left">👨🏻‍🎓 I'm a 2nd Year CSE Student<br><br>💻 I am a person who loves traveling, online earning, gaming, swimming, and programming!</h3>
+
+###
+
+<h3 align="left">🚀 Recent Projects:</h3>
+
+- [Summer Stride Eshop](https://github.com/divyanshdj/SummerStride-Eshop) : Summer Stride is a fully responsive ecommerce website,
+Responsive for all devices, build using HTML, CSS, and JavaScript
+- [Netflix Clone](https://github.com/divyanshdj/Netflix-Clone) : Web Structure of Netflix!
 
 ###
 
@@ -82,18 +92,22 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+###
+
+<h3 align="left">🏆 Achievements & Certifications:</h3>
+
+-Mood Indigo IIT Bombay Web Development (2 Months Training) - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_webdevelopment-codelife-techskills-activity-7075661721977131008-o9oK?utm_source=share&utm_medium=member_desktop)
 
 ###
+
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
-
 <div align="center">
   <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
