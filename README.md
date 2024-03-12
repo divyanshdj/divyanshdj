@@ -37,7 +37,7 @@
 <h3 align="left">🚀 Recent Projects:</h3>
 
 - [Summer Stride Eshop](https://github.com/divyanshdj/SummerStride-Eshop) : Summer Stride is a fully responsive ecommerce website,
-Responsive for all devices, build using HTML, CSS, and JavaScript
+Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](https://divyanshdj.github.io/SummerStride-Eshop/)
 - [Netflix Clone](https://github.com/divyanshdj/Netflix-Clone) : Web Structure of Netflix!
 
 ###
