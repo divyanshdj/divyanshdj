@@ -110,12 +110,10 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 <h2 align="left">💻 Get in Touch:</h2>
 
 - LinkedIn : [Divyansh Jain](https://www.linkedin.com/in/divyansh-jain-29712726b)
-<br>
 - Twitter : [@divyansh_dj3](https://twitter.com/divyansh_dj3)
 <br>
 Feel free to reach out if you have any questions or collaboration opportunities!
-
-<br>
+<br><br>
 
 <div align="center">
   <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
