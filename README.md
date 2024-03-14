@@ -107,6 +107,14 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
+<h2 align="left">💻 Get in Touch:</h2>
+
+-LinkedIn - [Divyansh Jain](https://www.linkedin.com/in/divyansh-jain-29712726b)
+<br>
+-Twitter - [@divyansh_dj3](https://twitter.com/divyansh_dj3)
+
+<br>
+
 <div align="center">
   <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
