@@ -109,8 +109,10 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 
 <h2 align="left">💻 Get in Touch:</h2>
 
-- LinkedIn : [Divyansh Jain](https://www.linkedin.com/in/divyansh-jain-29712726b)
-- Twitter : [@divyansh_dj3](https://twitter.com/divyansh_dj3)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-jain-29712726b)
+<br>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divyansh_dj3)
+
 <br>
 Feel free to reach out if you have any questions or collaboration opportunities!
 <br><br>
