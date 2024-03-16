@@ -85,13 +85,13 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 
 ###
 
-<h3 align="left">🏆 Achievements & Certifications:</h3>
+## 🏆 Achievements & Certifications:
 
 -Mood Indigo IIT Bombay Web Development (2 Months Training) - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_webdevelopment-codelife-techskills-activity-7075661721977131008-o9oK?utm_source=share&utm_medium=member_desktop)
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+## 🔥 My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" width="330" alt="stats graph"  />
@@ -99,11 +99,13 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" width="330" alt="languages graph"  />
 </div>
 
-<h2 align="left">💻 Get in Touch:</h2>
+## 💻 Get in Touch:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-jain-29712726b)
 <br>
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divyansh_dj3)
+<br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/djboss88347) 
 
 <br>
 Feel free to reach out if you have any questions or collaboration opportunities!
