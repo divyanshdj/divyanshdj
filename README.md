@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center"> Hello,  I'm Divyansh Jain! 🔥</h1>
+<h2 align="center"> Hello,  I'm Divyansh Jain! 🔥</h2>
 
 ###
 
-<h3 align="left">👨🏻‍🎓I am 2nd Year Computer Science and Engineering student currently pursuing a B.Tech degree, with a deep passion for coding and programming. & I am a person who loves traveling, online earning, gaming, swimming, and programming!</h3>
+<h4 align="left">👨🏻‍🎓I am 2nd Year Computer Science and Engineering student currently pursuing a B.Tech degree, with a deep passion for coding and programming. & I am a person who loves traveling, online earning, gaming, swimming, and programming!</h4>
 
 ###
 
@@ -89,7 +89,7 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 
 - Mood Indigo IIT Bombay Web Development (2 Months Training) - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_webdevelopment-codelife-techskills-activity-7075661721977131008-o9oK?utm_source=share&utm_medium=member_desktop) <br>
 - Udemy (HTML & CSS ) - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_webdev-html-css-activity-7065146436258045952-a1EK?utm_source=share&utm_medium=member_desktop) <br>
-- Database Mangaement System - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_training-dbms-growth-activity-7065147615234920448-FemP?utm_source=share&utm_medium=member_desktop)
+- Database Management System - [Certificate](https://www.linkedin.com/posts/divyansh-jain-29712726b_training-dbms-growth-activity-7065147615234920448-FemP?utm_source=share&utm_medium=member_desktop)
 
 ###
 
