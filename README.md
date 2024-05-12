@@ -29,8 +29,8 @@
 ## 🚀 Recent Projects:
 
 - [Summer Stride Eshop](https://github.com/divyanshdj/SummerStride-Eshop) : Summer Stride is a fully responsive ecommerce website,
-Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](https://divyanshdj.github.io/SummerStride-Eshop/)
-- [Movie-Wtachlist](https://github.com/divyanshdj/Movie-Watchlist) : "Movie-Watchlist" is a website framework designed for organizing and managing your movie collection. Simplify the process of adding and deleting movies from your watchlist with this customizable and user-friendly platform. [Live Link](https://divyanshdj.github.io/Movie-Watchlist/)
+Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](https://summer-stride-eshop.netlify.app/)
+- [Movie-Wtachlist](https://github.com/divyanshdj/Movie-Watchlist) : "Movie-Watchlist" is a website framework designed for organizing and managing your movie collection. Simplify the process of adding and deleting movies from your watchlist with this customizable and user-friendly platform. [Live Link](https://movies-watchlisters.netlify.app/)
 
 ---
 
