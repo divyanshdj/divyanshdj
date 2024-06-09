@@ -30,7 +30,7 @@
 
 - [Summer Stride Eshop](https://github.com/divyanshdj/SummerStride-Eshop) : Summer Stride is a fully responsive ecommerce website,
 Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](https://summer-stride-eshop.netlify.app/)
-- [Movie-Watchlist](https://github.com/divyanshdj/Movie-Watchlist) : "Movie-Watchlist" is a website framework designed for organizing and managing your movie collection. Simplify the process of adding and deleting movies from your watchlist with this customizable and user-friendly platform. [Live Link](https://movies-watchlisters.netlify.app/)
+- [Movie-Watchlist](https://github.com/divyanshdj/Movie-Watchlist) : Task Buddy is a simple todo list web application designed to help users manage their tasks effectively. With Task Buddy, you can easily add, edit, and delete tasks, ensuring you stay organized and productive throughout your day. [Live Link](https://movies-watchlisters.netlify.app/)
 
 ---
 
