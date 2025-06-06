@@ -16,11 +16,11 @@
   
 </div>
 
-###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
 <h2 align="center"> Hello,  I'm Divyansh Jain! 🔥</h2>
-
-###
 
 <h4 align="left">👨🏻‍🎓I am 2nd Year Computer Science and Engineering student currently pursuing a B.Tech degree, with a deep passion for coding and programming. & I am a person who loves traveling, online earning, gaming, swimming, and programming!</h4>
 
@@ -32,7 +32,9 @@
 Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](https://summer-stride-eshop.netlify.app/)
 - [Task Buddy](https://github.com/divyanshdj/Todo-List) : Task Buddy is a simple todo list web application designed to help users manage their tasks effectively. With Task Buddy, you can easily add, edit, and delete tasks, ensuring you stay organized and productive throughout your day. [Live Link](https://todo-work-list.netlify.app/)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
 ## ⚡ Tech Stack
 
@@ -81,8 +83,6 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 ![Mac](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
 ###
 
 ## 🏆 Achievements & Certifications:
@@ -94,22 +94,27 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 
 ###
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
 ## 🔥 My Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" width="330" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" width="350" alt="stats graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" width="330" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" width="350" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 ## 💻 Get in Touch:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-jain-29712726b)
-<br>
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divyansh_dj3)
-<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/divyanshdj/)
-<br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/djboss88347) 
 
 <br>
@@ -117,6 +122,9 @@ Feel free to reach out if you have any questions or collaboration opportunities!
 <br><br>
 
 <div align="center">
-  <img height="130" width="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="130" width="150" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"  />
 </div>
+
+
+
 
