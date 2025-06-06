@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 <h2 align="center"> Hello,  I'm Divyansh Jain! 🔥</h2>
 
-<h4 align="left">👨🏻‍🎓I am 2nd Year Computer Science and Engineering student currently pursuing a B.Tech degree, with a deep passion for coding and programming. & I am a person who loves traveling, online earning, gaming, swimming, and programming!</h4>
+<h4 align="left">👨🏻‍🎓I'm 3rd-year B.Tech CSE student passionate about problem-solving and software development, aiming to create innovative tech solutions. I enjoy traveling, gaming, swimming, and movie editing while focusing on continuous learning and growth.</h4>
 
 ###
 
