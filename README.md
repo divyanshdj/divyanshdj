@@ -101,9 +101,9 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 ## 🔥 My Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" width="350" alt="stats graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshdj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" width="350" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshdj&theme=dark&show_icons=true&hide_border=false&count_private=true" height="180" width="360" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshdj&theme=dark&hide_border=false" height="180" width="380" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdj&theme=dark&show_icons=true&hide_border=false&layout=compact" height="180" width="350" alt="languages graph"  />
 </div>
 
 <div align="center">
