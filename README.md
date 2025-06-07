@@ -47,7 +47,6 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
- 
 
 ### 🧩 Libraries & Framework
 
@@ -59,7 +58,9 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -84,6 +85,10 @@ Responsive for all devices, build using HTML, CSS, and JavaScript [Live Link](ht
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
 ## 🏆 Achievements & Certifications:
 
